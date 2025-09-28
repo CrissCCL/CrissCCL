@@ -2,7 +2,6 @@
 🎓 I’m passionate about **electronics, control systems, automation, and embedded system**.  
 📡 I share **DIY projects, tutorials, and experiments** on my YouTube channel:  
 👉 https://www.youtube.com/@Profe_Cristian  
-
 💻 You can also explore my **open-source projects and repositories** here on GitHub.  
 📑 Check out my academic publications on **IEEE Xplore**:  
 👉 https://ieeexplore.ieee.org/author/37086586475  
