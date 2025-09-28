@@ -4,7 +4,8 @@
 👉 https://www.youtube.com/@Profe_Cristian  
 
 💻 You can also explore my **open-source projects and repositories** here on GitHub.  
-
+📑 Check out my academic publications on **IEEE Xplore**:  
+👉 https://ieeexplore.ieee.org/author/37086586475  
 ---
 
 ## 🌍 About Me  
@@ -17,7 +18,8 @@
 
 ## 📺 Connect with Me  
 - **YouTube:** https://www.youtube.com/@Profe_Cristian  
-- **GitHub:** https://github.com/CrissCCL  
+- **GitHub:** https://github.com/CrissCCL
+- **IEEE Xplore:** https://ieeexplore.ieee.org/author/37086586475  
 
 ---
 
