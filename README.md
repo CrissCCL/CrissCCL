@@ -21,7 +21,6 @@
 
 - **YouTube:** https://www.youtube.com/@Profe_Cristian  
 - **GitHub:** https://github.com/CrissCCL
-- **IEEE Xplore:** https://ieeexplore.ieee.org/author/37086586475  
 
 ---
 
