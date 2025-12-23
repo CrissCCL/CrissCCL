@@ -21,7 +21,7 @@
 
 - **YouTube:** https://www.youtube.com/@Profe_Cristian  
 - **GitHub:** https://github.com/CrissCCL
-
+- **Patreon** https://patreon.com/CrissCCL
 ---
 
 ⭐ *If you like my projects, consider giving them a star and following me for updates!* ⭐  
