@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Cristian
 
+**CrissCCL – applied control systems, digital signal processing, and embedded systems**
+
 🎓 Electronics engineer focused on **control systems, automation, and embedded systems**.  
 My work sits at the intersection of **system behavior, practical engineering decisions, and implementation constraints**.
 
