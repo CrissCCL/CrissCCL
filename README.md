@@ -55,7 +55,7 @@ https://patreon.com/CrissCCL
 ## 🔗 Connect
 
 - **GitHub:** https://github.com/CrissCCL  
-- **YouTube:** https://www.youtube.com/@Profe_Cristian  
+- **YouTube:** https://www.youtube.com/@CrissCCL_eng
 - **Patreon (technical analysis & reproducible studies):** https://www.patreon.com/CrissCCL  
 
 ---
