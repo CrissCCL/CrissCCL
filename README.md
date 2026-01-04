@@ -52,11 +52,11 @@ https://patreon.com/CrissCCL
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect and support
 
 - **GitHub:** https://github.com/CrissCCL  
 - **YouTube:** https://www.youtube.com/@CrissCCL_eng
-- **Patreon (technical analysis & reproducible studies):** https://www.patreon.com/CrissCCL  
+- **Patreon:** https://www.patreon.com/CrissCCL  
 
 ---
 
