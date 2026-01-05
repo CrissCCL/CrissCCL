@@ -47,7 +47,7 @@ This GitHub is connected to an ongoing technical series covering:
 - Parametric system identification (ARX)  
 - Model validation and engineering criteria  
 
-👉 Full analysis, notebooks, and datasets:  
+👉 Full analysis, notebooks, and datasets. Support me on Patreon:  
 https://patreon.com/CrissCCL
 
 ---
