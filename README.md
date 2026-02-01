@@ -87,11 +87,9 @@ Extended analyses, notebooks, and datasets are shared through ongoing technical 
 
 ## 🔗 Connect and support
 
-
 - GitHub: https://github.com/CrissCCL  
 - YouTube: https://www.youtube.com/@CrissCCL_eng  
 - Patreon: https://www.patreon.com/CrissCCL
 
 ---
-
-⭐ *If you find the projects useful, consider starring the repositories and following for updates.* ⭐
+These projects are shared as open technical references for the engineering community.
