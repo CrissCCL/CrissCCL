@@ -33,33 +33,36 @@ Control Systems • Embedded Firmware • Instrumentation • Robotics
 </p>
 
 
-🎓 Electronics engineer focused on **control systems, automation, and embedded systems**.  
-My work sits at the intersection of **system behavior, practical engineering decisions, and implementation constraints**.
+🎓 Electronics engineer specialized in **control systems, industrial automation, instrumentation, and embedded firmware**.
 
-This GitHub hosts **open technical repositories** and reference implementations that support my work in control, signal processing, and embedded development.
+My work focuses on the **design, implementation, and validation of real engineering systems** — combining control theory, signal processing, hardware design, and practical constraints to deliver robust solutions for laboratory and industrial environments.
+
+This GitHub serves as an **engineering portfolio**, hosting open technical repositories, hardware designs, and reference implementations used in control, instrumentation, and embedded development.
+
 
 ---
 
 ## 🌍 About Me
 
-- ⚙️ Background in **Electronics, Control, and Automation**
-- 📐 Strong interest in **engineering trade-offs**, not just theoretical performance
-- 🔧 Experience in **control systems, embedded devices, and digital signal processing**
-- 🤖 Builder of experimental systems: robots, UAVs, and custom platforms
+- ⚙️ Industrial control and instrumentation engineering  
+- 🔧 Embedded firmware development (C/C++ on microcontrollers)  
+- 📐 System identification, modeling, and digital control design  
+- 🧩 PCB design and hardware prototyping (KiCad)  
+- 🤖 Experimental platforms: process control rigs, robotics, UAVs, and sensor systems
 
 ---
 
 ## 📂 About This GitHub
 
-Most repositories here provide:
-- Reference implementations
-- Hardware and software project structures
-- Supporting material for larger technical analyses
+Repositories typically include:
 
-They are intended as **starting points, templates, and technical references**.
+- Control and system identification implementations  
+- Embedded firmware and hardware designs  
+- Instrumentation and data acquisition systems  
+- Experimental platforms and engineering testbeds  
 
-> Detailed design rationale, comparative studies, and fully reproducible analyses  
-> are developed separately as **member-supported technical content**.
+They are intended as **technical references, templates, and reproducible examples** for real-world engineering applications.
+
 
 ---
 
@@ -70,24 +73,24 @@ They are intended as **starting points, templates, and technical references**.
 
 ---
 
-## 📦 Technical Series (Patreon)
+## 📦 Technical Series
 
-This GitHub is connected to an ongoing technical series covering:
+Extended analyses, notebooks, and datasets are shared through ongoing technical publications covering:
 
-- Digital filtering in control systems  
-- Parametric system identification (ARX)  
+- Digital filtering for control systems  
+- Parametric system identification (ARX/ARMAX)  
 - Model validation and engineering criteria  
 
-👉 Full analysis, notebooks, and datasets. Support me on Patreon:  
-https://patreon.com/CrissCCL
+👉 https://patreon.com/CrissCCL
 
 ---
 
 ## 🔗 Connect and support
 
-- **GitHub:** https://github.com/CrissCCL  
-- **YouTube:** https://www.youtube.com/@CrissCCL_eng
-- **Patreon:** https://www.patreon.com/CrissCCL  
+
+- GitHub: https://github.com/CrissCCL  
+- YouTube: https://www.youtube.com/@CrissCCL_eng  
+- Patreon: https://www.patreon.com/CrissCCL
 
 ---
 
