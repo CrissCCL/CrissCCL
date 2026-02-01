@@ -1,8 +1,12 @@
 # 👋 Hi, I’m Cristian
 
-<h3 align="center">
-Applied Control • Embedded Systems • Robotics • Instrumentation
-</h3>
+<h2 align="center">
+CrissCCL – Applied Control & Embedded Engineering
+</h2>
+
+<h4 align="center">
+Control Systems • Embedded Firmware • Instrumentation • Robotics
+</h4>
 
 <p align="center">
 
@@ -10,13 +14,17 @@ Applied Control • Embedded Systems • Robotics • Instrumentation
 <img src="https://img.shields.io/badge/Focus-Control%20Systems-1f77b4"/>
 <img src="https://img.shields.io/badge/Focus-Embedded%20Systems-2ca02c"/>
 <img src="https://img.shields.io/badge/Focus-Digital%20Signal%20Processing-ff7f0e"/>
+
 <br>
+
 <img src="https://img.shields.io/badge/C%2FC%2B%2B-Embedded-critical?logo=cplusplus"/>
 <img src="https://img.shields.io/badge/MATLAB-Control%20%26%20DSP-orange?logo=mathworks"/>
 <img src="https://img.shields.io/badge/Python-Scientific-blue?logo=python"/>
 <img src="https://img.shields.io/badge/LabVIEW-SCADA%2FHMI-FFDB00"/>
 <img src="https://img.shields.io/badge/KiCad-PCB%20Design-314CB0?logo=kicad"/>
+
 <br>
+
 <img src="https://img.shields.io/badge/ROS2-Robotics-22314E?logo=ros"/>
 <img src="https://img.shields.io/badge/Instrumentation-DAQ%20%26%20Sensors-00979D"/>
 <img src="https://img.shields.io/badge/YouTube-Engineering%20Labs-FF0000?logo=youtube"/>
@@ -24,9 +32,6 @@ Applied Control • Embedded Systems • Robotics • Instrumentation
 
 </p>
 
-<h2 align="center">
-CrissCCL – Applied Control & Embedded Engineering
-</h2>
 
 🎓 Electronics engineer focused on **control systems, automation, and embedded systems**.  
 My work sits at the intersection of **system behavior, practical engineering decisions, and implementation constraints**.
