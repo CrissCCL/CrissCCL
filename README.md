@@ -1,14 +1,27 @@
 # 👋 Hi, I’m Cristian
 
-![IEEE Author](https://img.shields.io/badge/IEEE-Published%20Author-00629B?logo=ieee&logoColor=white)
-![Control Systems](https://img.shields.io/badge/Focus-Control%20Systems-blue)
-![Embedded Systems](https://img.shields.io/badge/Focus-Embedded%20Systems-success)
-![DSP](https://img.shields.io/badge/Focus-Digital%20Signal%20Processing-orange)
-![MATLAB](https://img.shields.io/badge/MATLAB-Simulink-orange?logo=mathworks)
-![Python](https://img.shields.io/badge/Python-Scientific-blue?logo=python)
-![KiCad](https://img.shields.io/badge/KiCad-PCB%20Design-314CB0?logo=kicad)
-![YouTube](https://img.shields.io/badge/YouTube-Technical%20Labs-FF0000?logo=youtube)
-![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?logo=patreon)
+<h3 align="center">
+Applied Control • Embedded Systems • Robotics • Instrumentation
+</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/IEEE-Published%20Author-00629B?logo=ieee&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Control%20Systems-1f77b4"/>
+<img src="https://img.shields.io/badge/Focus-Embedded%20Systems-2ca02c"/>
+<img src="https://img.shields.io/badge/Focus-DSP-ff7f0e"/>
+<br>
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-Embedded-critical?logo=cplusplus"/>
+<img src="https://img.shields.io/badge/MATLAB-Simulink-orange?logo=mathworks"/>
+<img src="https://img.shields.io/badge/Python-Scientific-blue?logo=python"/>
+<img src="https://img.shields.io/badge/KiCad-PCB%20Design-314CB0?logo=kicad"/>
+<br>
+<img src="https://img.shields.io/badge/Robotics-ROS2-22314E?logo=ros"/>
+<img src="https://img.shields.io/badge/Open%20Hardware-Projects-00979D"/>
+<img src="https://img.shields.io/badge/YouTube-Engineering%20Labs-FF0000?logo=youtube"/>
+<img src="https://img.shields.io/badge/Patreon-Support%20Research-F96854?logo=patreon"/>
+
+</p>
 
 
 **CrissCCL – applied control systems, digital signal processing, and embedded systems**
