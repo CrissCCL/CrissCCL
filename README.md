@@ -24,7 +24,7 @@ Applied Control • Embedded Systems • Robotics • Instrumentation
 </p>
 
 
-**CrissCCL – Control Engineering • DSP • Embedded Systems**
+**CrissCCL – Applied Control & Embedded Engineering**
 
 🎓 Electronics engineer focused on **control systems, automation, and embedded systems**.  
 My work sits at the intersection of **system behavior, practical engineering decisions, and implementation constraints**.
