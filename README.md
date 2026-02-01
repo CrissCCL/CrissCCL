@@ -14,7 +14,7 @@ Applied Control • Embedded Systems • Robotics • Instrumentation
 <img src="https://img.shields.io/badge/C%2FC%2B%2B-Embedded-critical?logo=cplusplus"/>
 <img src="https://img.shields.io/badge/MATLAB-Control%20%26%20DSP-orange?logo=mathworks"/>
 <img src="https://img.shields.io/badge/Python-Scientific-blue?logo=python"/>
-<img src="https://img.shields.io/badge/LabVIEW-SCADA%2FHMI-FFDB00?logo=national-instruments&logoColor=black"/>
+<img src="https://img.shields.io/badge/LabVIEW-SCADA%2FHMI-FFDB00"/>
 <img src="https://img.shields.io/badge/KiCad-PCB%20Design-314CB0?logo=kicad"/>
 <br>
 <img src="https://img.shields.io/badge/ROS2-Robotics-22314E?logo=ros"/>
