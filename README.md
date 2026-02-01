@@ -85,11 +85,13 @@ Extended analyses, notebooks, and datasets are shared through ongoing technical 
 
 ---
 
-## 🔗 Connect and support
+## 🔗 Connect
 
 - GitHub: https://github.com/CrissCCL  
 - YouTube: https://www.youtube.com/@CrissCCL_eng  
-- Patreon: https://www.patreon.com/CrissCCL
+- Patreon: https://www.patreon.com/CrissCCL  
 
 ---
-These projects are shared as open technical references for the engineering community.
+
+Applied control and embedded engineering — from modeling and simulation to hardware and field deployment.
+
