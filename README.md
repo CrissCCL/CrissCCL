@@ -1,5 +1,16 @@
 # 👋 Hi, I’m Cristian
 
+![IEEE Author](https://img.shields.io/badge/IEEE-Published%20Author-00629B?logo=ieee&logoColor=white)
+![Control Systems](https://img.shields.io/badge/Focus-Control%20Systems-blue)
+![Embedded Systems](https://img.shields.io/badge/Focus-Embedded%20Systems-success)
+![DSP](https://img.shields.io/badge/Focus-Digital%20Signal%20Processing-orange)
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulink-orange?logo=mathworks)
+![Python](https://img.shields.io/badge/Python-Scientific-blue?logo=python)
+![KiCad](https://img.shields.io/badge/KiCad-PCB%20Design-314CB0?logo=kicad)
+![YouTube](https://img.shields.io/badge/YouTube-Technical%20Labs-FF0000?logo=youtube)
+![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?logo=patreon)
+
+
 **CrissCCL – applied control systems, digital signal processing, and embedded systems**
 
 🎓 Electronics engineer focused on **control systems, automation, and embedded systems**.  
