@@ -14,6 +14,7 @@ Applied Control • Embedded Systems • Robotics • Instrumentation
 <img src="https://img.shields.io/badge/C%2FC%2B%2B-Embedded-critical?logo=cplusplus"/>
 <img src="https://img.shields.io/badge/MATLAB-Control%20%26%20DSP-orange?logo=mathworks"/>
 <img src="https://img.shields.io/badge/Python-Scientific-blue?logo=python"/>
+<img src="https://img.shields.io/badge/LabVIEW-SCADA%2FHMI-yellow"/>
 <img src="https://img.shields.io/badge/KiCad-PCB%20Design-314CB0?logo=kicad"/>
 <br>
 <img src="https://img.shields.io/badge/ROS2-Robotics-22314E?logo=ros"/>
@@ -22,7 +23,6 @@ Applied Control • Embedded Systems • Robotics • Instrumentation
 <img src="https://img.shields.io/badge/Patreon-Support%20Research-F96854?logo=patreon"/>
 
 </p>
-
 
 <h2 align="center">
 CrissCCL – Applied Control & Embedded Engineering
@@ -87,4 +87,3 @@ https://patreon.com/CrissCCL
 ---
 
 ⭐ *If you find the projects useful, consider starring the repositories and following for updates.* ⭐
-
