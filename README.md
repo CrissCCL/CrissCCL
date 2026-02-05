@@ -9,6 +9,11 @@ Control Systems • Embedded Firmware • Instrumentation • Robotics
 </h4>
 
 <p align="center">
+🌐 <b>Engineering Portfolio:</b> https://crissccl.github.io
+</p>
+
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/IEEE-Published%20Author-00629B?logo=ieee&logoColor=white"/>
 <img src="https://img.shields.io/badge/Focus-Control%20Systems-1f77b4"/>
@@ -87,10 +92,10 @@ Extended analyses, notebooks, and datasets are shared through ongoing technical 
 
 ## 🔗 Connect
 
-- GitHub: https://github.com/CrissCCL  
-- YouTube: https://www.youtube.com/@CrissCCL_eng  
-- Patreon: https://www.patreon.com/CrissCCL  
-
+- 🌐 Portfolio → https://crissccl.github.io  
+- GitHub → https://github.com/CrissCCL  
+- LinkedIn → https://linkedin.com/in/cristianccl  
+- YouTube → https://www.youtube.com/@CrissCCL_eng  
 ---
 
 Applied control and embedded engineering — from modeling and simulation to hardware and field deployment.
