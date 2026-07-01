@@ -95,7 +95,8 @@ Extended analyses, notebooks, and datasets are shared through ongoing technical 
 - 🌐 Portfolio → https://crissccl.github.io  
 - GitHub → https://github.com/CrissCCL  
 - LinkedIn → https://linkedin.com/in/cristianccl  
-- YouTube → https://www.youtube.com/@CrissCCL_eng  
+- YouTube → https://www.youtube.com/@CrissCCL_eng
+- Instagram → https://www.instagram.com/crissccl_eng
 ---
 
 Applied control and embedded engineering — from modeling and simulation to hardware and field deployment.
