@@ -5,7 +5,7 @@ CrissCCL – Applied Control & Embedded Engineering
 </h2>
 
 <h4 align="center">
-Control Systems • Embedded Firmware and Hardware • Instrumentation • Robotics
+Control Systems • Embedded Firmware & Hardware • Instrumentation • Robotics
 </h4>
 
 <p align="center">
@@ -38,7 +38,7 @@ Control Systems • Embedded Firmware and Hardware • Instrumentation • Robot
 </p>
 
 
-🎓 Electronics engineer specialized in **control systems, industrial automation, instrumentation, and embedded firmware**.
+🎓 Electronics engineer specialized in **control systems, industrial automation, instrumentation, and embedded firmware and hardware**.
 
 My work focuses on the **design, implementation, and validation of real engineering systems** — combining control theory, signal processing, hardware design, and practical constraints to deliver robust solutions for laboratory and industrial environments.
 
