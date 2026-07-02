@@ -5,7 +5,7 @@ CrissCCL – Applied Control & Embedded Engineering
 </h2>
 
 <h4 align="center">
-Control Systems • Embedded Firmware • Instrumentation • Robotics
+Control Systems • Embedded Firmware and Hardware • Instrumentation • Robotics
 </h4>
 
 <p align="center">
